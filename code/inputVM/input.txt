@@ -1,0 +1,6 @@
+vmid = 0
+mips = 1000
+size = 100000
+ram = 512
+bw = 1000
+vmnum = 5

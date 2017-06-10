@@ -1,0 +1,4 @@
+POLICY,Avg. TAT,Avg. WT, VMs, CORE(VM),TASKS, VM Band Width, VM MIPS, VM RAM, VM Image Size(MB),Cloudlet File Path
+SJF,6.285714,58.333332,5.0,4.0,21.0,1000.0,1000.0,512.0,100000.0,/home/omprashant/input/input3.txt~,
+SJF,8.0,80.0,5.0,4.0,21.0,1000.0,1000.0,512.0,100000.0,/home/omprashant/input/input6.txt,
+SJF,6.285714,58.333332,5.0,4.0,21.0,1000.0,1000.0,512.0,100000.0,/home/omprashant/input/input3.txt,

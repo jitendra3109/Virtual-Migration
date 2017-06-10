@@ -1,0 +1,9 @@
+DC = 1
+PP = 8000
+cycles = 3
+T first = 4
+T first = 3
+difference = 1000
+one for square, one with CD=one, two for triangle
+value = 1
+pesNumber = 1
